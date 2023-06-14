@@ -1,11 +1,11 @@
 # Tiktok Tech Immersion 2023 Assignment
 
-Link: ![Tests](https://github.com/TikTokTechImmersion/assignment_demo_2023/actions/workflows/test.yml/badge.svg)
+![Tests](https://github.com/TikTokTechImmersion/assignment_demo_2023/actions/workflows/test.yml/badge.svg)
 
 This is a demo and template for backend assignment of 2023 TikTok Tech Immersion.
 
 ## Requirements
-https://bytedance.sg.feishu.cn/docx/P9kQdDkh5oqG37xVm5slN1Mrgle
+Link: https://bytedance.sg.feishu.cn/docx/P9kQdDkh5oqG37xVm5slN1Mrgle
 1. Architecture
 2. Data storage
 3. Message delivery
