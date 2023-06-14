@@ -2,7 +2,7 @@
 
 ![Tests](https://github.com/TikTokTechImmersion/assignment_demo_2023/actions/workflows/test.yml/badge.svg)
 
-This is a demo and template for backend assignment of 2023 TikTok Tech Immersion.
+This is a repository based on the template given from the fork repository for backend assignment of 2023 TikTok Tech Immersion.
 
 ## Requirements
 Link: https://bytedance.sg.feishu.cn/docx/P9kQdDkh5oqG37xVm5slN1Mrgle
