@@ -31,4 +31,5 @@ services:
       - ALLOW_EMPTY_PASSWORD=yes
     command: redis-server --appendonly yes
     ports:
-      - "6379:6379"    
+      - "6379:6379"
+  #test111111111111
